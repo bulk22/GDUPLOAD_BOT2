@@ -2,7 +2,7 @@ class config:
     BOT_TOKEN = "2073401563:AAFOL_jXMsqIhZCVPt2gqE4mrwy0MJTykI0"
     APP_ID = "7712824"
     API_HASH = "2d3673e18b462f8032c4eea2f50b9f52"
-    DATABASE_URL = ""
+    DATABASE_URL = "postgres://dfmuchomwhqejj:ece0ad3e088e15fd15e7b3b64cb0de4dbbb45e202245793f0af86254e034e77d@ec2-52-207-47-210.compute-1.amazonaws.com:5432/d32bphe8b6u7re"
     SUDO_USERS = "1808315958" # Sepearted by space.
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = "963596188755-eo4jf6pb3r2u85bueb8gjj2gvbitj4qe.apps.googleusercontent.com"
