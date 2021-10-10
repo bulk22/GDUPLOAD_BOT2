@@ -1,13 +1,13 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
+    BOT_TOKEN = "2073401563:AAFOL_jXMsqIhZCVPt2gqE4mrwy0MJTykI0"
+    APP_ID = "7712824"
+    API_HASH = "2d3673e18b462f8032c4eea2f50b9f52"
+    DATABASE_URL = "postgres://qmyrqsdoauikig:77fdf0599784c1179ef1de390afdfd19572f55148a85680b0913b22b611649dd@ec2-52-207-47-210.compute-1.amazonaws.com:5432/dd783n4r2ksg3r"
+    SUDO_USERS = "1808315958" # Sepearted by space.
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = ""
-    G_DRIVE_CLIENT_SECRET = ""
-    SUPPORT_CHAT_LINK = ""
+    G_DRIVE_CLIENT_ID = "963596188755-eo4jf6pb3r2u85bueb8gjj2gvbitj4qe.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "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"
+    SUPPORT_CHAT_LINK = "t.me/teldrivev2_bot"
 
 
 class BotCommands:
